@@ -1,0 +1,15 @@
+$(document).ready(function(){
+    $("#show-hide1").click(function(){
+      $(".related-recipe").toggle();
+    });
+  });
+  $(document).ready(function(){
+    $("#show-hide2").click(function(){
+      $(".related-recipe").toggle();
+    });
+  });
+  $(document).ready(function(){
+    $("#show-hide3").click(function(){
+      $(".related-recipe").toggle();
+    });
+  });

@@ -1,0 +1,89 @@
+/*nav  bar*/
+nav{
+    background-color: #660066;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    font-family: "oswald";
+    font-weight: bold;
+}
+
+.menu{
+    font-family: "Helvetica Neue" normal;
+
+}
+
+.titulo{
+    font-family: "Oswald", bold;
+    font-size: 40px;
+  }
+
+.subtitulo{
+    font-family: "Open Sans", normal;
+    font-size: 20pt;
+}
+
+/*hero section*/
+.hero-section {
+    text-align: center;
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding: 15rem 3.125rem;
+
+  }
+
+.centrar{
+    text-align: center;
+}
+
+.yosoy{
+    font-family: "Oswald";
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+
+
+.lilian{
+    font-family: "Oswald", bold;
+    font-size: 72pt;
+}
+
+
+.padding {
+    height: 100vh;
+
+
+    position: center;
+    width: 100%;
+    }    
+    
+.fondotr {
+    background-color: #660066;
+   
+}
+
+hr {
+    margin-top: 23px;
+    margin-bottom: 17px;
+    height: 0,1px;
+    background-color: #ffffff;
+    width: 150px;
+   
+  }
+
+  .division {
+    margin-top: 23px;
+    margin-bottom: 17px;
+    height: 1px;
+    background-color: #333a40;
+  }
+  footer{
+    background-color: #660066;
+    margin: 0 0.25em 0.5em 0.25em;
+    color: #ffffff;
+
+  }
